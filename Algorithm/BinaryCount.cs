@@ -9,7 +9,7 @@ namespace Algorithm
     /// </summary>
     public class BinaryCount
     {
-        public int[] Calc(int n)
+        public int[] Calc(int n)  //8
         {
             var array = new int[n + 1];
             ;

@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //var result = new EggAndFloor().CountMinSetp(2, 100);
-            var result = new BinaryCount().Calc(7);
+            var result = new BinaryCount().Calc(8);  //8
 
             Console.WriteLine(result);
             Console.ReadLine();
